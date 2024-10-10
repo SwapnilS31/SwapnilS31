@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SwapnilS31
-- 👀 I’m interested in wab development
+- 👀 I’m interested in web development
 - 🌱 I’m currently persuing bachelor in computer engineering
 
 
